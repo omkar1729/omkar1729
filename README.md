@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Machine learning/Data Science Enthusiast and a Comp Sci Grad Student</h3>
 <font size="34">
   
-- 🔭 I’m currently working on **Master Thesis - "Harnessing Graph Properties of Brain Networks for EEG Signal Classification"**
+## - 🔭 I’m currently working on **Master Thesis - "Harnessing Graph Properties of Brain Networks for EEG Signal Classification"**
 
-- 🌱 I’m currently learning **AWS, GCP, Anvil works and Streamlit**
+## - 🌱 I’m currently learning **AWS, GCP, Anvil works and Streamlit**
 
-- 👯 I’m looking to collaborate on **Applications of Deep learning to healthcare problems**
+## - 👯 I’m looking to collaborate on **Applications of Deep learning to healthcare problems**
 
 - 👨‍💻 All of my projects are available at [http://omkar1729muglikar.technology/](http://omkar1729muglikar.technology/)
 
