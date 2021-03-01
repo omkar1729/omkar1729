@@ -21,7 +21,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar1729&show_icons=true&locale=en&layout=compact" alt="omkar1729" / width="800"></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkar1729&show_icons=true&locale=en" alt="omkar1729" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar1729&" alt="omkar1729" /></p>
 
