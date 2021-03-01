@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Muglikar</h1>
 <h3 align="center">A passionate Machine learning/Data Science Enthusiast and a Comp Sci Grad Student</h3>
-
-- 🔭 I’m currently working on **Master Thesis - "Harnessing Graph Properties of Brain Networks for EEG Signal Classification"**
+<font size="14">
+ - 🔭 I’m currently working on **Master Thesis - "Harnessing Graph Properties of Brain Networks for EEG Signal Classification"**
 
 - 🌱 I’m currently learning **AWS, GCP, Anvil works and Streamlit**
 
@@ -14,6 +14,9 @@
 - 📫 How to reach me **om.muglikar@gmail.com**
 
 - ⚡ Fun fact **"Mickey" is an actual unit to measure distance of the movement of a computer mouse**
+
+
+</font>
 
 
 <h3 align="left">Languages and Tools:</h3>
