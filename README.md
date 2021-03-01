@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Muglikar</h1>
-<h3 align="center">A passionate Machine learning/Data Science Enthusiast and a Comp Sci Grad Student</h3>
+<h2 align="center">A passionate Machine learning/Data Science Enthusiast and a Comp Sci Grad Student</h2>
 
-<h4>
+<h3>
   
 - 🔭 I’m currently working on **Master Thesis - "Harnessing Graph Properties of Brain Networks for EEG Signal Classification"**
 
@@ -20,7 +20,7 @@
 
 
 
-</h2>
+</h3>
 
   
 
