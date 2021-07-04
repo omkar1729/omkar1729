@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Applications of Deep learning to healthcare problems**
 
-- 👨‍💻 All of my projects are available at [http://omkar1729muglikar.technology/](http://omkar1729muglikar.technology/)
-
 - 💬 Ask me about **Machine/Deep Learning, Deploying ML models and drawing insights from Data**
 
 - 📫 How to reach me **om.muglikar@gmail.com**
