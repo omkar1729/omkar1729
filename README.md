@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omkar Muglikar</h1>
+<h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A passionate Machine learning/Data Science Enthusiast and a Computer Science Graduate Student</h3>
 
 <p style="font-size:260%;">
