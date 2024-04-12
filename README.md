@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
-<h3 align="center">A passionate Machine learning/Data Science Enthusiast and a Computer Science Graduate Student</h3>
+<h3 align="center">A passionate Machine learning/Data Science Enthusiast and a Lifelong Student</h3>
 
 <p style="font-size:260%;">
   
 - 🔭 I’m currently working on **Master Thesis - "Harnessing Graph Properties of Brain Networks for EEG Signal Classification"**
 
-- 🌱 I’m currently learning **AWS, GCP, Anvil works and Streamlit**
+- 🌱 I’m currently learning **GenAI, Retrieval-Augmented Generation, FastAPI, LangChain**
 
-- 👯 I’m looking to collaborate on **Applications of Deep learning to healthcare problems**
+- 👯 I’m looking to collaborate on **Applications of Deep learning to real world problems**
 
-- 💬 Ask me about **Machine/Deep Learning, Deploying ML models and drawing insights from Data**
+- 💬 Ask me about **Machine/Deep Learning, Deploying ML models, and drawing insights from Data**
 
 - 📫 How to reach me **om.muglikar@gmail.com**
 
