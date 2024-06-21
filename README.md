@@ -3,7 +3,7 @@
 
 <p style="font-size:260%;">
   
-- 🔭 I’m currently working on **Master Thesis - "Harnessing Graph Properties of Brain Networks for EEG Signal Classification"**
+- 🔭 I’m currently working on **Applications of Artificial Intelligence in Semiconductor Industry**
 
 - 🌱 I’m currently learning **GenAI, Retrieval-Augmented Generation, FastAPI, LangChain**
 
