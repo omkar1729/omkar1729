@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A passionate Machine learning/Data Science Enthusiast and a Lifelong Student</h3>
-![Visitor Count](https : //profile-counter.glitch.me/{omkar1729}/count.svg)
+
 <p style="font-size:260%;">
   
 - 🔭 I’m currently working on **Master Thesis - "Harnessing Graph Properties of Brain Networks for EEG Signal Classification"**
